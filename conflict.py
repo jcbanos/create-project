@@ -1,1 +1,1 @@
-# Conflict from user A
+# Master branch change comming from a separate user
